@@ -38,7 +38,7 @@ import random
 
 ![image](https://github.com/rahulkumarmmmut/FlashCard_Game/assets/87722928/2fc6b168-3a5f-453a-930a-f783b3195e7c)
 
-##Resources
+Resources
 https://www.udemy.com/course/100-days-of-code/learn/lecture/21067698#overview
 
 
