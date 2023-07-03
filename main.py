@@ -13,7 +13,7 @@ try:
 except FileNotFoundError:
     original_data=pandas.read_csv(r"french_words.csv")
     to_learn = original_data.to_dict(orient="records")
-else
+else:
     to_learn = data.to_dict(orient="records")
 
 def next_card():
